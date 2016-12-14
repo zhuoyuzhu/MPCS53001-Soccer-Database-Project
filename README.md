@@ -4,6 +4,7 @@ This is my MPCS53001 database final project about soccer player's info and perfo
 After designing and modeling my soccer database, a simple web application was developed for users to manipulate soccer player's data at the back end.
 
 **1. Languages:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
+
 **2. SQL Techniques:** Subqueries, aggregation, various types of joins, functions, triggers and stored procedures
 
 ## 1. Home Page
